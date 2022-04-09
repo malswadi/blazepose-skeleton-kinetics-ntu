@@ -5,10 +5,10 @@ This is the project repository for the research study *Using BlazePose on Spatia
 (In reviewing process for publication)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/52717252/139516602-798e6cff-2c29-4719-ba2f-44dbfc5ebd1a.gif"
+<img src="https://user-images.githubusercontent.com/52717252/162593347-a8a62eb6-a96a-45fb-bc6c-cc51671dfebe.gif"
 </p>
 <p align="center">
-Skeleton extraction from a UCF-101 sample
+BlazePose skeleton data from Kinetics dataset class 'playing piano'.
 </p>
 
 ## Contents
