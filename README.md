@@ -30,10 +30,10 @@ The [NTU-RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) dataset pro
 The Kinetics and NTU-RGB+D BlazePose skeleton dataset are provided as .zip format. 
 
 #### Kinetics
-The compressed file size of the Kinetics BlazePose Skeleton dataset is 1.62 GB. On the other hand, the compressed format has a size of 1.62 GB of storage.
+The compressed file size of the Kinetics BlazePose Skeleton dataset is 6.7 GB. On the other hand, the uncompressed format has a size of 21.6 GB of storage.
 
 #### NTU-RGB+D
-The compressed file size of the NTU-RGB+D BlazePose Skeleton dataset is 1.62 GB. When uncompressed, this dataset has a size of 1.62 GB of storage.
+The compressed file size of the NTU-RGB+D BlazePose Skeleton dataset is 1.62 GB. When uncompressed, this dataset has a size of 5.47 GB of storage.
 
 ## Citation
 When our paper is published, we will include the citation information in this section.
