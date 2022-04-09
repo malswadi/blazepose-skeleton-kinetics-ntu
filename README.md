@@ -12,11 +12,11 @@ BlazePose skeleton data from Kinetics dataset class 'playing piano'.
 </p>
 
 ## Contents
-* [1. Download Kinetics BlazePose Skeleton Dataset]
-* [2. Download NTU-RGB+D BlazePose Skeleton Dataset]
-* [3. Storage info]
-* [Citation]
-* [Acknowledgements]
+* 1. Download Kinetics BlazePose Skeleton Dataset
+* 2. Download NTU-RGB+D BlazePose Skeleton Dataset
+* 3. Storage info
+* Citation
+* Acknowledgements
 
 ## 1. Download Kinetics BlazePose Skeleton Dataset
 
@@ -24,7 +24,7 @@ The Deepmind [Kinetics](https://www.deepmind.com/open-source/kinetics) human act
 The 306,245 videos provided by the Kinetics dataset are obtained from YouTube classified into 400 different action classes. Due to the variability of the duration of each clip, a fixed duration of 300 frames has been proposed. Therefore, if any video clip has less than 300 frames, we repeat the initial frames until reach the amount needed. Otherwise, if the video clip exceeds the frame number, we ramdomly deleted the exceeding frames. An independent JSON file has been exported for each video sample. The Kinetics BlazePose skeleton dataset can be downloaded [here](url).
 
 ## 2. Download NTU-RGB+D BlazePose Skeleton Dataset
-The [NTU-RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) dataset provides a total of 56,880 action clips performing 60 different actions classified into three major groups: daily actions, health-related actions, and mutual actions. Forty participants performed the test action samples. Each sample has been captured with 3 different cameras simultaneously located at the same height but different angles. We set the duration of the video clips to 300 frames using the method explain in Section 1. The NTU-RGB+D BlazePose Skeleton dataset can be downloaded [here](url).
+The [NTU-RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) dataset provides a total of 56,880 action clips performing 60 different actions classified into three major groups: daily actions, health-related actions, and mutual actions. Forty participants performed the test action samples. Each sample has been captured with 3 different cameras simultaneously located at the same height but different angles. We set the duration of the video clips to 300 frames using the method explain in Section 1. The NTU-RGB+D BlazePose Skeleton dataset can be downloaded [here](https://drive.google.com/file/d/1K5nnPiF2-xmtZNwUF3yVvbSlnMf97AY-/view?usp=sharing).
 
 ## 3. Storage info
 The Kinetics and NTU-RGB+D BlazePose skeleton dataset are provided as .zip format. 
