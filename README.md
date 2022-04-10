@@ -8,7 +8,7 @@ This is the project repository for the research study *Using BlazePose on Spatia
 <img src="https://user-images.githubusercontent.com/52717252/162593347-a8a62eb6-a96a-45fb-bc6c-cc51671dfebe.gif"
 </p>
 <p align="center">
-BlazePose skeleton data from Kinetics dataset class 'playing piano'.
+BlazePose skeleton data from Kinetics dataset class 'playing violin'.
 </p>
 
 ## Contents
