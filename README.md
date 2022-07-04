@@ -12,9 +12,9 @@ BlazePose skeleton data from Kinetics dataset class 'playing violin'.
 </p>
 
 ## Contents
-* 1. Download Kinetics BlazePose Skeleton Dataset
-* 2. Download NTU-RGB+D BlazePose Skeleton Dataset
-* 3. Storage info
+* Download Kinetics BlazePose Skeleton Dataset
+* Download NTU-RGB+D BlazePose Skeleton Dataset
+* Storage info
 * Citation
 * Acknowledgements
 
