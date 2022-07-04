@@ -25,7 +25,6 @@ The 306,245 videos provided by the Kinetics dataset are obtained from YouTube cl
 
 ## 2. Download NTU-RGB+D BlazePose Skeleton Dataset
 The [NTU-RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) dataset provides a total of 56,880 action clips performing 60 different actions classified into three major groups: daily actions, health-related actions, and mutual actions. Forty participants performed the test action samples. Each sample has been captured with 3 different cameras simultaneously located at the same height but different angles. We set the duration of the video clips to 300 frames using the method explain in Section 1. The NTU-RGB+D BlazePose Skeleton dataset can be downloaded [here](https://drive.google.com/file/d/1K5nnPiF2-xmtZNwUF3yVvbSlnMf97AY-/view?usp=sharing).
-
 ## 3. Storage info
 The Kinetics and NTU-RGB+D BlazePose skeleton dataset are provided as .zip format. 
 
